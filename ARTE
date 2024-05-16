@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arte y Creatividad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+            margin: 0;
+        }
+        header {
+            background-color: #222;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 24px;
+            margin-top: 40px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Arte y Creatividad</h1>
+        <p>Explora el mundo del arte y descubre cómo la creatividad impulsa la expresión humana.</p>
+    </header>
+    <div class="container">
+        <section>
+            <h2>¿Qué es el arte?</h2>
+            <p>El arte es una forma de expresión humana que utiliza diferentes medios para transmitir ideas, emociones y experiencias. Puede manifestarse a través de la pintura, la escultura, la música, la danza, la literatura y muchas otras formas.</p>
+            <img src="https://via.placeholder.com/800x400" alt="Arte">
+        </section>
+        <section>
+            <h2>Tipos de arte</h2>
+            <h3>Pintura</h3>
+            <p>La pintura es una de las formas más antiguas de arte, que utiliza pigmentos y otros materiales para crear imágenes en una superficie.</p>
+            <img src="https://via.placeholder.com/800x400" alt="Pintura">
+            <h3>Música</h3>
+            <p>La música es una forma de arte que utiliza el sonido y el ritmo para expresar emociones y contar historias.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+            <h3>Escultura</h3>
+            <p>La escultura es el arte de crear formas tridimensionales a partir de diversos materiales, como piedra, madera, metal o arcilla.</p>
+            <img src="https://via.placeholder.com/800x400" alt="Escultura">
+        </section>
+        <section>
+            <h2>Importancia de la creatividad en el arte</h2>
+            <p>La creatividad es fundamental en el arte porque permite a los artistas explorar nuevas ideas, romper con convenciones y expresarse de manera única.</p>
+            <img src="https://via.placeholder.com/800x400" alt="Creatividad">
+        </section>
+        <footer>
+            <p>© 2024 Arte y Creatividad. Todos los derechos reservados.</p>
+        </footer>
+    </div>
+</body>
+</html>
